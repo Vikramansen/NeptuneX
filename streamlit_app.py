@@ -186,7 +186,7 @@ def convert_webm_to_wav(webm_path):
         return None
 
 def classify_query(query):
-    openai.api_key = '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'  # Replace with your actual OpenAI API key
+    openai.api_key = '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'  # Replace with your actual OpenAI API key
     response = openai.Completion.create(
         engine="gpt-3.5-turbo-instruct",
         prompt=f"Classify the following user query into categories: {', '.join(ad_categories)}. Query: '{query}'",
