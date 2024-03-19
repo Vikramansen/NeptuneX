@@ -25,7 +25,7 @@ To get started with NeptuneX, ensure you have Docker installed on your system. T
    docker build -t neptunex .
    ```
 4. Run the Docker container:
-   `   docker run -p 8501:8501 neptunex`
+   `docker run -p 8501:8501 neptunex`
    After running the container, NeptuneX will be accessible at `http://localhost:8501` on your browser.
 
 ## Usage
