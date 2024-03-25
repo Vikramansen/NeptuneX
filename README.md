@@ -4,7 +4,7 @@ NeptuneX is an innovative voice assistant architecture designed to provide perso
 
 ## Research Paper
 
-This repository includes a research paper titled "NeptuneX: A Privacy-Focused Voice Assistant Architecture" authored by [Your Name] and Madhumitha Santhanakrishnan. The paper is under review for publication in ACM and details the methodologies, technologies, and ethical considerations behind NeptuneX.
+This repository includes a research paper titled "NeptuneX: A Privacy-Focused Voice Assistant Architecture" authored by Vikraman Senthil Kumar and Madhumitha Santhanakrishnan. The paper is under review for publication in ACM and details the methodologies, technologies, and ethical considerations behind NeptuneX.
 
 ## Installation
 
